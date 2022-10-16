@@ -5,6 +5,8 @@
 body {
   margin: 0px;
   font-family:'Roboto', sans-serif;
+  padding-left: 30%;
+  padding-right: 30%;
 }
 a{
 text-decoration:none;
